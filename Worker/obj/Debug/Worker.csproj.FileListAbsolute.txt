@@ -1,0 +1,6 @@
+C:\Users\ма\source\repos\ISMOOP\Worker\bin\Debug\Worker.exe.config
+C:\Users\ма\source\repos\ISMOOP\Worker\bin\Debug\Worker.exe
+C:\Users\ма\source\repos\ISMOOP\Worker\bin\Debug\Worker.pdb
+C:\Users\ма\source\repos\ISMOOP\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+C:\Users\ма\source\repos\ISMOOP\Worker\obj\Debug\Worker.exe
+C:\Users\ма\source\repos\ISMOOP\Worker\obj\Debug\Worker.pdb
